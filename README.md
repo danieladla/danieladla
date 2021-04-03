@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieladla
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, JAVA...
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT...
 - 💞️ I’m looking to collaborate on new projects!
 - 📫 How to reach me: my Linkedin profile is https://www.linkedin.com/in/mdanielad/
 
